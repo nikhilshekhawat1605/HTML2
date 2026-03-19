@@ -2,10 +2,10 @@
 
 # 🌐Web Design & Services Project.
 
-├── Home Page
+├── Home Page  
 ├── About Page  
-├── Contact Page
-├── Registration Page
+├── Contact Page  
+├── Registration Page  
 ├── Thankyou  
 └── images
 
